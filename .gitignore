@@ -1,0 +1,12 @@
+# Ignore raw datasets
+data/raw/*.csv
+
+# Ignore Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
